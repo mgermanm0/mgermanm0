@@ -5,6 +5,6 @@
 -->
 
 - 🎓 Computer Engineer
-- 📚 Computer Sciencia PhD. Student
+- 📚 Computer Science PhD. Student
 - 👨‍🔬 Research @ Intelligent Systems and Data Mining (SiMiDat)
 - 💭 Love to talk about: (_insert a loooong list of topics here_) Almost about everything!
